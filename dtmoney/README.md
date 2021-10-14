@@ -21,3 +21,5 @@
 - .svg: exportado como vetor, mais fácil de manipular
 
 - favicon: icone da aba / precisa ficar na pasta public pois ele vai ser inserido diretamente na index
+
+- `<> </>` fragment é uma tag vazia
