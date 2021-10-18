@@ -28,6 +28,11 @@
 
 `yarn add react-modal`
 
+### React-modal:
+
+`yarn add polished`
+
+- funções que permitem modificar as cores
 
 # Importante:
 
