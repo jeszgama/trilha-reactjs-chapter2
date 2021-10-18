@@ -24,6 +24,11 @@
 
 `yarn add axios`
 
+### React-modal:
+
+`yarn add react-modal`
+
+
 # Importante:
 
 - package.son: dependencias do projeto
