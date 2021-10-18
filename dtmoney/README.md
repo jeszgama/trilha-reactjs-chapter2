@@ -1,3 +1,7 @@
+## Mirage JS:
+
+- cria um back-end fake, essas ferramentas são boas pra usar em teste, mas quando for colocar em prática é melhor usar um backend real
+
 # Instalando:
 
 ### react app:
