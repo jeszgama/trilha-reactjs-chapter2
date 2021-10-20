@@ -49,3 +49,7 @@
 - Prop drilling: quando passo uma propriedade diversas vezes dentro do código
 
 - contexto: compartilhamento de estado entre vários componentes da aplicação, independente de onde esses componentes estejam
+
+- `"axios": "^0.21.0",` : versão do axios
+
+- hooks: por padrão deve ser declarado por use{Nomedafunção}
