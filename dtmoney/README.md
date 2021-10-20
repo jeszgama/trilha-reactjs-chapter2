@@ -45,3 +45,7 @@
 - favicon: icone da aba / precisa ficar na pasta public pois ele vai ser inserido diretamente na index
 
 - `<> </>` fragment é uma tag vazia
+
+- Prop drilling: quando passo uma propriedade diversas vezes dentro do código
+
+- contexto: compartilhamento de estado entre vários componentes da aplicação, independente de onde esses componentes estejam
